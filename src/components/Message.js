@@ -11,8 +11,7 @@ class Message extends Component {
                 timeout={600}
                 classNames="fadeIn"
             >
-                <div className="message-container">
-                    <div className="close" onClick={this.props.openMessage}>x</div>
+                <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
                         Hello, Kayla Marie.
                     <br />

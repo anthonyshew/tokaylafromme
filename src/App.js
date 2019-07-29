@@ -33,10 +33,10 @@ class App extends React.Component {
         timeout={600}
         classNames="fadeIn"
       >
-        <div className="App">
+        <div className="App" onClick={this.openMessage} >
           <Top />
           <div className="heart">
-            <img onClick={this.openMessage} src={heart} alt="My heart." />
+            <imgsrc={heart} alt="My heart." />
           </div>
           {messageIsOpen && <Message openMessage={this.openMessage} />}
           <Bottom />
