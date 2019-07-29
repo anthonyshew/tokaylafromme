@@ -1,26 +1,49 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import Top from "./components/Top";
+import Message from "./components/Message";
+import Bottom from "./components/Bottom";
+
+import { CSSTransition } from 'react-transition-group';
+
+const heart = require('./heart.png');
+
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      appearPage: true,
+      messageIsOpen: false,
+    }
+  }
+
+  openMessage = () => {
+    this.state.messageIsOpen ? this.setState({ messageIsOpen: false }) : this.setState({ messageIsOpen: true });
+  }
+
+  render() {
+
+    const { appearPage, messageIsOpen } = this.state
+
+    return (
+      <CSSTransition
+        in={appearPage}
+        appear={true}
+        timeout={600}
+        classNames="fadeIn"
+      >
+        <div className="App">
+          <Top />
+          <div className="heart">
+            <img onClick={this.openMessage} src={heart} alt="My heart." />
+          </div>
+          {messageIsOpen && <Message openMessage={this.openMessage} />}
+          <Bottom />
+        </div>
+      </CSSTransition>
+    );
+  }
 }
 
 export default App;
