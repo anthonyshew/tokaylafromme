@@ -36,7 +36,7 @@ class App extends React.Component {
         <div className="App" onClick={this.openMessage} >
           <Top />
           <div className="heart">
-            <imgsrc={heart} alt="My heart." />
+            <img src={heart} alt="My heart." />
           </div>
           {messageIsOpen && <Message openMessage={this.openMessage} />}
           <Bottom />
