@@ -13,12 +13,12 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Hello, Kayla Marie.
+                        Today, I'm about to find some calculators online to see how much house we can afford.
                     <br />
-                        Welcome to your daily love note. Every night before you go to sleep,
-                        there will be a new message for you to read here.
+                        Whether it's more than we think or less, I love thinking about making a home with you
+                        and all the fun we are gunna have in the future. Babies, dogs, a house. :)
                     <br />
-                        I'm thinking you will like them. What do you think? :)
+                        Yesssssssssssssss.
                     <br />
                         Love, Anthony
                 </div>

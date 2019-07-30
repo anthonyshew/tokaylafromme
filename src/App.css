@@ -59,15 +59,6 @@
   width: 80%;
 }
 
-.close {
-  position: absolute;
-  top: -15px;
-  right: 10px;
-  font-size: 48px;
-  font-weight: 900;
-  cursor: pointer;
-}
-
 /* Animations */
 
 .fadeIn-appear {
