@@ -13,12 +13,11 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Today, I'm about to find some calculators online to see how much house we can afford.
+                        Today, I was wishing I was sitting on the beach with you without a care in the world.
+                        I'd have the most beautiful view in the world. Oh, and the ocean would like nice, too.
                     <br />
-                        Whether it's more than we think or less, I love thinking about making a home with you
-                        and all the fun we are gunna have in the future. Babies, dogs, a house. :)
-                    <br />
-                        Yesssssssssssssss.
+                        I miss you a lot and I know when I see you again I am going to be ecstatic.
+                        It's gunna be the greatest hug the world has ever known.
                     <br />
                         Love, Anthony
                 </div>
