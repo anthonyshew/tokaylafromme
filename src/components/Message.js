@@ -13,11 +13,12 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Today, I was wishing I was sitting on the beach with you without a care in the world.
-                        I'd have the most beautiful view in the world. Oh, and the ocean would like nice, too.
+                        Today, I was going to tell you about how proud I am of you being about to start
+                        your teaching stuff in a classroom - but I don't think I can figure out how!
                     <br />
-                        I miss you a lot and I know when I see you again I am going to be ecstatic.
-                        It's gunna be the greatest hug the world has ever known.
+                        I'm honestly so excited for you and I am looking forward to hearing all about it.
+                        I know you'll just be observing but I know you'll be so good all along the whole journey
+                        to a full blown teaching credential!
                     <br />
                         Love, Anthony
                 </div>
