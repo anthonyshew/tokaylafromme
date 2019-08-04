@@ -13,14 +13,14 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Today, I super proud of you for delivering all those pizzas. I know you don't
-                        want to do it and you're doing it because you have to. That's what makes it so
-                        brave and so important
+                        Today, I really miss you because you've been doing the Lord's work and
+                        making people happy with their pizzas - but it's okay. You're doing what you
+                        gotta do.
                     <br />
-                        Everything we are doing right now is going to pay off in the end. I know it.
-                    <br />
-                        (I fully mean that in the financial sense. I am loving every day that I get to
-                        call you mine and I am proud of both of us for doing what we do every single day.)
+                        My arm actually felt kinda okay today but I'm going to be going to the doctor
+                        in the morning to hopefully finally get some answers about what really needs to happen.
+                        It is just making me think of how thankful I am to have you and you dealing with all this
+                        mess that I'm going through. When I have your support, I feel so much better.
                     <br />
                         Love, Anthony
                 </div>
