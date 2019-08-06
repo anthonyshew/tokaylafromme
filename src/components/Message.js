@@ -13,8 +13,12 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Today, I had a really frustrating day but getting to talk to you was an absolute highlight.
-                        Just like every other day.
+                        Today, I'm still a little down in the dumps and you telling me about how you have my back
+                        is really great for me. Also, nice job getting those pizzas delivered deep into the night
+                        and early in the morning!
+                        <br />
+                        I miss you every day more and more. I can't wait to be back to you and happy. I cannotttt
+                        wait.
                     <br />
                         Love, Anthony
                 </div>
