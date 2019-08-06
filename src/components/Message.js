@@ -13,14 +13,8 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Today, I really miss you because you've been doing the Lord's work and
-                        making people happy with their pizzas - but it's okay. You're doing what you
-                        gotta do.
-                    <br />
-                        My arm actually felt kinda okay today but I'm going to be going to the doctor
-                        in the morning to hopefully finally get some answers about what really needs to happen.
-                        It is just making me think of how thankful I am to have you and you dealing with all this
-                        mess that I'm going through. When I have your support, I feel so much better.
+                        Today, I had a really frustrating day but getting to talk to you was an absolute highlight.
+                        Just like every other day.
                     <br />
                         Love, Anthony
                 </div>
