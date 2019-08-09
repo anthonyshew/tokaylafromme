@@ -13,12 +13,14 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Today, I'm really bored because I don't get to play catch so that's boring, boring, boring.
+                        Today, I'm super psyched for you because you're getting so much work done for
+                        school! That's the girl I love and know! I'm gunna be so pumped when you finish
+                        your last class for school. You're totally gunna be had sex with. Smooches.
                         <br />
-                        Someone did mention today, though, that there is less than a month until everyone here breaks
-                        camp and goes him so I plan on leaving for good whenever that happens no matter what. Isn't
-                        that amazing?! Less than a month and I get to see you!!! Yesssssssss!!!
-                        I love you. :)
+                        My pals today are having a tough time. They both reaggravated their injuries so
+                        they had to buy some brews and go sit at the beach for awhile. I got gelato out
+                        of it after dinner, though, so I'm stoked on it. I think you would like gelato,
+                        we should get you some. It's like super ice cream! I love you. :D
                     <br />
                         Love, Anthony
                 </div>
