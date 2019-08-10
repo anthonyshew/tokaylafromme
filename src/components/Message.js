@@ -13,14 +13,12 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Today, I'm super psyched for you because you're getting so much work done for
-                        school! That's the girl I love and know! I'm gunna be so pumped when you finish
-                        your last class for school. You're totally gunna be had sex with. Smooches.
+                        Today, you're in high spirits which puts my in high spirits then we're both in
+                        high spirits and we're having a good time and yayayayayyayaya!
                         <br />
-                        My pals today are having a tough time. They both reaggravated their injuries so
-                        they had to buy some brews and go sit at the beach for awhile. I got gelato out
-                        of it after dinner, though, so I'm stoked on it. I think you would like gelato,
-                        we should get you some. It's like super ice cream! I love you. :D
+                        You're going back to the river to start your TOTALLY IN THE CLASSROOM TEACHING
+                        ASSIGNMENTS and it's gunna be so awesome and I'm so excited for I REPEAT
+                        SO EXCITED FOR YOU.
                     <br />
                         Love, Anthony
                 </div>
