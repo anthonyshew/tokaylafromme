@@ -13,12 +13,12 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Today, you're in high spirits which puts my in high spirits then we're both in
-                        high spirits and we're having a good time and yayayayayyayaya!
+                        Today, I'm sooooooooooo excited for you to be in one place for awhile. You're
+                        putting it down in the ol' Arizona Zone-a and you get to chill there for a bit
+                        (as far as moving around goes - you still have work to do! :] )
                         <br />
-                        You're going back to the river to start your TOTALLY IN THE CLASSROOM TEACHING
-                        ASSIGNMENTS and it's gunna be so awesome and I'm so excited for I REPEAT
-                        SO EXCITED FOR YOU.
+                        I know achieving even that small amount of stability is amazing for you and
+                        it means a lot for the both of us. One step closer to what we are envisioning!
                     <br />
                         Love, Anthony
                 </div>
