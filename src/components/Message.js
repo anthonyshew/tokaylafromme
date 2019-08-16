@@ -13,11 +13,12 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Today, you had your first "frustrating" day of school and while I know you don't want
-                        to be annoyed, it makes me happy because I know that ya gotta deal with the ups and
-                        downs of anything to truly start to master it, right? So, I'm glad you had a not
-                        perfect one mixed in with all the perfect ones. That gives you a great learning
-                        opportunity and I'm happy you will be better for it in the end. :D
+                        Today, I had the doctor visit and they just still are unwilling to make decisions
+                        AND IM GUNNA LOSE MY MIND AHAHAHAHAHAAAHAHAHAHHHAHAHAHAH
+                    <br />
+                        Not really but it is pretty annoying. I'm just glad I have you to talk to about
+                        it and that you are doing so great in Bullhead. :) Hope you and Bear are braving
+                        the heat splendidly today.
                     <br />
                         Love, Anthony
                 </div>
