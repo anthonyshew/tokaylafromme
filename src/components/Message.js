@@ -13,12 +13,10 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Today, I had the doctor visit and they just still are unwilling to make decisions
-                        AND IM GUNNA LOSE MY MIND AHAHAHAHAHAAAHAHAHAHHHAHAHAHAH
-                    <br />
-                        Not really but it is pretty annoying. I'm just glad I have you to talk to about
-                        it and that you are doing so great in Bullhead. :) Hope you and Bear are braving
-                        the heat splendidly today.
+                        Today, I'm really excited to come home to you soon. I wish I could just have left today but
+                        these people have to do what they have to do and I am gunna respect it just in case that
+                        they do decide that they want to finally give me my surgery. I am just really excited
+                        to see you, that's all I know.
                     <br />
                         Love, Anthony
                 </div>
