@@ -13,10 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Today, I'm really excited to come home to you soon. I wish I could just have left today but
-                        these people have to do what they have to do and I am gunna respect it just in case that
-                        they do decide that they want to finally give me my surgery. I am just really excited
-                        to see you, that's all I know.
+                        Today, you're asking me for just...more. And I'm glad. I don't want you to feel like you are in this alone. Because you're not. And I want you to know that. That's why these notes are coming back to you. Just because I'm around doesn't mean that you don't need to hear something about my thoughts on you, me, and us, every day. So, that's why you're going to start seeing these again. I love you.
                     <br />
                         Love, Anthony
                 </div>
