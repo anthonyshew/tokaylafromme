@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Today, you're asking me for just...more. And I'm glad. I don't want you to feel like you are in this alone. Because you're not. And I want you to know that. That's why these notes are coming back to you. Just because I'm around doesn't mean that you don't need to hear something about my thoughts on you, me, and us, every day. So, that's why you're going to start seeing these again. I love you.
+                        You've been hard at work all day and I just love to see it. There are so many girls out there that aren't willing to do things right now that matterj and I'm watching your pretty little self work right now and I love it. You also look super adorable today, too. :)
                     <br />
                         Love, Anthony
                 </div>
