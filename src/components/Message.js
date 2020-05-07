@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        You've been hard at work all day and I just love to see it. There are so many girls out there that aren't willing to do things right now that matterj and I'm watching your pretty little self work right now and I love it. You also look super adorable today, too. :)
+                        I LOVE watching you do your baking. I think you already know how much I love watching you do something when you're concentrated but, obviously, watching a lady bake in the kitchen really tickles my loins (know you love it when I say that). It makes me think to when you're going to be a momma and I liiiiiiiike it.
                     <br />
                         Love, Anthony
                 </div>
