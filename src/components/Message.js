@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Cuddling with you literally has a physiological effect on me, I've noticed. When I'm feeling somewhat stressed or otherwise even moderately unhappy, cuddling with you just sends me to a different mentally that everything is alright. And, of course, if I'm already in the happys, then I just start doing all the better. :D
+                        Thank you for getting me pizza and being as passionate about pizza as I am. :)
                     <br />
                         Love, Anthony
                 </div>
