@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        I actually kinda like that you got recognized as "the baseball player's wife." Makes me feel like everyone knows I got dibs and you're MINE ALL MINE MWAHAHAHA.
+                        I'm actually stoked for the creativity on your workout. I thought that was a really fun idea and cool and stuff. Also, these enchiladas continue to be the most dankadocious thing on this planet.
                     <br />
                         Love, Anthony
                 </div>
