@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        I'm so jealous of your Chick Fil A and I miss you. I hope you are enjoying your Charlotte time. :)
+                        Facetiming you is the best, I'm doing it right now AND I LIKE IT BECAUSE I MISS YOUUUUUUUUU
                     <br />
                         Love, Anthony
                 </div>
