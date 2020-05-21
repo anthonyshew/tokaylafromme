@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Facetiming you is the best, I'm doing it right now AND I LIKE IT BECAUSE I MISS YOUUUUUUUUU
+                        I just miss you too much! It is making me in a bad mood! Come back to me tomorrow! Quick!
                     <br />
                         Love, Anthony
                 </div>
