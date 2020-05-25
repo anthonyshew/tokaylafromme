@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        You are about to be back to me in like less than two hours, yusssssssssss yus yus yus yus.f
+                        I'm sorry I haven't written you in a couple days...There's been...a lot going on...But I love you and I'm proud of you for staying calm when you were having a difficult conversation. Now I shall flip you the bird and scream profanity. Goodbye.
                     <br />
                         Love, Anthony
                 </div>
