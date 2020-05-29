@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        PREQUALIFIED FOR A HOUSE AND ALL BECAUSE YOU ARE GUNNA BE THE BEST TEACHER EVER IM SO EXCITED LETS FREAKING GO I LOVE YOU ASLKDFJ;AWESUYRFL;ZHJXCGKLVYADR;KLGTFUYH
+                        We're so close to getting a house...I can smeeeeeeeell it...I can taaaaaste it...I can feeeeel it in my looooooins.
                     <br />
                         Love, Anthony
                 </div>
