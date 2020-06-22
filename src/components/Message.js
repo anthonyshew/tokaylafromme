@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Did you know I think you look fiiiiiine as hell in a bathing suit? Because I think you like fiiiiine as hell in a bathing suit.
+                        Congratulations on your first Etsy order from a random! You're a big business mogul now, lady!
                     <br />
                         Love, Anthony
                 </div>
