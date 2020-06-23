@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Congratulations on your first Etsy order from a random! You're a big business mogul now, lady!
+                        I am thankful to have you in my life. I love you. Thanks. :)
                     <br />
                         Love, Anthony
                 </div>
