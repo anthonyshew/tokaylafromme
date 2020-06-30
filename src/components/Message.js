@@ -13,9 +13,9 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        I'm thinking I kinda liking you chilling right here near me and reading and sleeping and stuff. I like getting to see you all cutesy and stuff. :)
-                    <br />
-                        Love, Anthony
+                        I'm so anxious for our house because I just know we are going to make it look so good! Ah!
+                        <br />
+                        Love, Anthonio Eduardo Zapato
                 </div>
                 </div>
             </CSSTransition>
