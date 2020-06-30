@@ -15,7 +15,7 @@ class Message extends Component {
                     <div className="message-body">
                         I'm so anxious for our house because I just know we are going to make it look so good! Ah!
                         <br />
-                        Love, Anthonio Eduardo Zapato
+                        Love, Antonio Eduardo Zapato
                 </div>
                 </div>
             </CSSTransition>
