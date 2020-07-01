@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        I'm so anxious for our house because I just know we are going to make it look so good! Ah!
+                        I am thankful for you for going to the store and bringing me back food. I know I'm obnoxiously busy and so I don't go and that's probably annoying but I just want to contribute to our house, I swear.
                         <br />
                         Love, Antonio Eduardo Zapato
                 </div>
