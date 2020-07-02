@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        I am thankful for you for going to the store and bringing me back food. I know I'm obnoxiously busy and so I don't go and that's probably annoying but I just want to contribute to our house, I swear.
+                        You don't burn oatmeal and I like that about you.
                         <br />
                         Love, Antonio Eduardo Zapato
                 </div>
