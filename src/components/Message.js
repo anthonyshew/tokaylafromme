@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        You left a tshirt sitting on the edge of the bed and Hazel slept with her nose all up in it. :)
+                        Big appliance day for us! Love getting to make this place ours together!
                         <br />
                         Love, Anthony Edward Shew
                 </div>
