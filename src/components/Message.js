@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Thanks for grocery shopping. :)
+                        NEW MOHAVE VOLLEYBALL COACH LOOK OUT REST OF THE LEAGUE LETSGOOOOOOOOOOOOOOOOO
                         <br />
                         Love, Anthony Edward Shew
                 </div>
