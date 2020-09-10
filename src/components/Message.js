@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Happy Labor Day?! Haha.
+                        Good work with the kids this week. Hope your ballers are starting to ball like real ballers.
                         <br />
                         Love, Anthony Edward Shew
                 </div>
