@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Big, strong, meaty, exquisitely dressed, intelligent, hard-working Kayla vs. long week ahead. Who will win this dramatic showdown?!
+                        You killed it for a full, long week, lover dover. Have a great nap today. :)
                         <br />
                         Love, Anthony Edward Shew
                 </div>
