@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Left aoogah, right aoogah, left aoogah, oi!
+                        Parent teacher conferences? More like sit in your room for an extra hour and not do anything because no one comes to see you but I totally would if I was a parent because you're cuuuuuuuuuute.
                         <br />
                         Love, Anthony Edward Shew
                 </div>
