@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        mom slep...but still tech...like champeeyon.
+                        The Earth Mover herself: K A Y L A   S H E W
                         <br />
                         Love, Anthony Edward Shew
                 </div>
