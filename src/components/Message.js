@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        The Earth Mover herself: K A Y L A   S H E W
+                        Dayum, look at that flat yard. Be lookin' like a pancake, ya feel me.
                         <br />
                         Love, Anthony Edward Shew
                 </div>
