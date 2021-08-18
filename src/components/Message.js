@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Hope you're ready for another fun week. :)
+                        Wednesday? More like one more schoolday after this one. Yup.
                         <br />
                         Love, Anthony Edward Shew
                     </div>
