@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        Me and Hazel always miss you during the day.
+                        GAME 1. WIN 1. LETS GOOOOOOOOOO
                         <br />
                         Love, Anthony Edward Shew
                     </div>
