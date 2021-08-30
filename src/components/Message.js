@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        GAME 1. WIN 1. LETS GOOOOOOOOOO
+                        I'm so stoked for the volleyball season, let's gooooo, so many wins incoming. Get those little buggers prepped up.
                         <br />
                         Love, Anthony Edward Shew
                     </div>
