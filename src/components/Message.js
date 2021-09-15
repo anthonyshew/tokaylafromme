@@ -13,7 +13,7 @@ class Message extends Component {
             >
                 <div className="message-container" onClick={this.props.openMessage}>
                     <div className="message-body">
-                        There aint nothing like your smile, your legs, and those eyes. :)
+                        I miss you all of the dayzzzzzzzz. But it's for a good reason and I love you for it.
                         <br />
                         Love, Anthony Edward Shew
                     </div>
