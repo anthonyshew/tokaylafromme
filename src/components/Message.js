@@ -8,7 +8,7 @@ class Message extends Component {
       <CSSTransition in={true} appear={true} timeout={600} classNames="fadeIn">
         <div className="message-container" onClick={this.props.openMessage}>
           <div className="message-body">
-            I hope you like your Christmas presents. Or at least my wrap jobs...
+            I like streaming with you in here, you are cute. :)
             <br />
             Love, Anthony Edward Shew
           </div>
