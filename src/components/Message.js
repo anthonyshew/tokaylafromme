@@ -8,8 +8,7 @@ class Message extends Component {
       <CSSTransition in={true} appear={true} timeout={600} classNames="fadeIn">
         <div className="message-container" onClick={this.props.openMessage}>
           <div className="message-body">
-            Valinetine's Day at the flower shop? Time for LAAAAAAAAAAAA to crush
-            it.
+            I am really jealous of how good you are at sleeping.
             <br />
             Love, Anthony Edward Shew
           </div>
